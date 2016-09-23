@@ -1,0 +1,35 @@
+C:\Users\Pacheco\Documents\Visual Studio 2010\Projects\ctp\ValidaGeraCnpj\ValidaGeraCnpj\bin\Debug\ValidaGeraCnpj.exe
+C:\Users\Pacheco\Documents\Visual Studio 2010\Projects\ctp\ValidaGeraCnpj\ValidaGeraCnpj\bin\Debug\ValidaGeraCnpj.pdb
+C:\Users\Pacheco\Documents\Visual Studio 2010\Projects\ctp\ValidaGeraCnpj\ValidaGeraCnpj\obj\x86\Debug\ValidaGeraCnpj.Form1.resources
+C:\Users\Pacheco\Documents\Visual Studio 2010\Projects\ctp\ValidaGeraCnpj\ValidaGeraCnpj\obj\x86\Debug\ValidaGeraCnpj.Properties.Resources.resources
+C:\Users\Pacheco\Documents\Visual Studio 2010\Projects\ctp\ValidaGeraCnpj\ValidaGeraCnpj\obj\x86\Debug\ValidaGeraCnpj.csproj.GenerateResource.Cache
+C:\Users\Pacheco\Documents\Visual Studio 2010\Projects\ctp\ValidaGeraCnpj\ValidaGeraCnpj\obj\x86\Debug\ValidaGeraCnpj.exe
+C:\Users\Pacheco\Documents\Visual Studio 2010\Projects\ctp\ValidaGeraCnpj\ValidaGeraCnpj\obj\x86\Debug\ValidaGeraCnpj.pdb
+C:\Users\Pacheco\Documents\Visual Studio 2010\Projects\ctp\ValidaGeraCnpj\ValidaGeraCnpj\obj\x86\Debug\frmPrincipalWpf.baml
+C:\Users\Pacheco\Documents\Visual Studio 2010\Projects\ctp\ValidaGeraCnpj\ValidaGeraCnpj\obj\x86\Debug\frmPrincipalWpf.g.cs
+C:\Users\Pacheco\Documents\Visual Studio 2010\Projects\ctp\ValidaGeraCnpj\ValidaGeraCnpj\obj\x86\Debug\ValidaGeraCnpj_MarkupCompile.cache
+C:\Users\Pacheco\Documents\Visual Studio 2010\Projects\ctp\ValidaGeraCnpj\ValidaGeraCnpj\obj\x86\Debug\ValidaGeraCnpj.g.resources
+C:\Users\felipe.pacheco\Google Drive\Projetos\ValidaGeraCnpj\ValidaGeraCnpj\obj\x86\Debug\ValidaGeraCnpj.exe
+C:\Users\felipe.pacheco\Google Drive\Projetos\ValidaGeraCnpj\ValidaGeraCnpj\obj\x86\Debug\ValidaGeraCnpj.pdb
+C:\Users\felipe.pacheco\Google Drive\Projetos\ValidaGeraCnpj\ValidaGeraCnpj\bin\Debug\ValidaGeraCnpj.exe
+C:\Users\felipe.pacheco\Google Drive\Projetos\ValidaGeraCnpj\ValidaGeraCnpj\bin\Debug\ValidaGeraCnpj.pdb
+C:\Users\felipe.pacheco\Google Drive\Projetos\ValidaGeraCnpj\ValidaGeraCnpj\obj\x86\Debug\frmPrincipalWpf.baml
+C:\Users\felipe.pacheco\Google Drive\Projetos\ValidaGeraCnpj\ValidaGeraCnpj\obj\x86\Debug\frmPrincipalWpf.g.cs
+C:\Users\felipe.pacheco\Google Drive\Projetos\ValidaGeraCnpj\ValidaGeraCnpj\obj\x86\Debug\ValidaGeraCnpj_MarkupCompile.cache
+C:\Users\felipe.pacheco\Google Drive\Projetos\ValidaGeraCnpj\ValidaGeraCnpj\obj\x86\Debug\ValidaGeraCnpj.g.resources
+C:\Users\felipe.pacheco\Google Drive\Projetos\ValidaGeraCnpj\ValidaGeraCnpj\obj\x86\Debug\ValidaGeraCnpj.Form1.resources
+C:\Users\felipe.pacheco\Google Drive\Projetos\ValidaGeraCnpj\ValidaGeraCnpj\obj\x86\Debug\ValidaGeraCnpj.Properties.Resources.resources
+C:\Users\felipe.pacheco\Google Drive\Projetos\ValidaGeraCnpj\ValidaGeraCnpj\obj\x86\Debug\ValidaGeraCnpj.csproj.GenerateResource.Cache
+C:\Users\felipe.pacheco\Documents\Visual Studio 2015\ValidaGeraCnpj\ValidaGeraCnpj\obj\x86\Debug\ValidaGeraCnpj.exe
+C:\Users\felipe.pacheco\Documents\Visual Studio 2015\ValidaGeraCnpj\ValidaGeraCnpj\obj\x86\Debug\ValidaGeraCnpj.pdb
+C:\Users\felipe.pacheco\Documents\Visual Studio 2015\ValidaGeraCnpj\ValidaGeraCnpj\bin\Debug\ValidaGeraCnpj.exe
+C:\Users\felipe.pacheco\Documents\Visual Studio 2015\ValidaGeraCnpj\ValidaGeraCnpj\bin\Debug\ValidaGeraCnpj.pdb
+C:\Users\felipe.pacheco\Documents\Visual Studio 2015\ValidaGeraCnpj\ValidaGeraCnpj\obj\x86\Debug\ValidaGeraCnpj.csprojResolveAssemblyReference.cache
+C:\Users\felipe.pacheco\Documents\Visual Studio 2015\ValidaGeraCnpj\ValidaGeraCnpj\obj\x86\Debug\frmPrincipalWpf.baml
+C:\Users\felipe.pacheco\Documents\Visual Studio 2015\ValidaGeraCnpj\ValidaGeraCnpj\obj\x86\Debug\frmPrincipalWpf.g.cs
+C:\Users\felipe.pacheco\Documents\Visual Studio 2015\ValidaGeraCnpj\ValidaGeraCnpj\obj\x86\Debug\ValidaGeraCnpj_MarkupCompile.cache
+C:\Users\felipe.pacheco\Documents\Visual Studio 2015\ValidaGeraCnpj\ValidaGeraCnpj\obj\x86\Debug\ValidaGeraCnpj.g.resources
+C:\Users\felipe.pacheco\Documents\Visual Studio 2015\ValidaGeraCnpj\ValidaGeraCnpj\obj\x86\Debug\ValidaGeraCnpj.Form1.resources
+C:\Users\felipe.pacheco\Documents\Visual Studio 2015\ValidaGeraCnpj\ValidaGeraCnpj\obj\x86\Debug\ValidaGeraCnpj.Properties.Resources.resources
+C:\Users\felipe.pacheco\Documents\Visual Studio 2015\ValidaGeraCnpj\ValidaGeraCnpj\obj\x86\Debug\ValidaGeraCnpj.csproj.GenerateResource.Cache
+C:\Users\felipe.pacheco\Documents\Visual Studio 2015\ValidaGeraCnpj\ValidaGeraCnpj\obj\x86\Debug\ValidaGeraCnpj_Content.g.cs
